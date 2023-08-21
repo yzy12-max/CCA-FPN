@@ -1,2 +1,6 @@
 # CCA-FPN
-Sci论文代码，如被录用，将有时间整理开源
+## CCA-FPN: Channel and content adaptive object detection
+
+[Paper](https://authors.elsevier.com/a/1hYh83k8X3qOow) 
+
+
