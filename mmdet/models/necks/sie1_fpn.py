@@ -12,10 +12,10 @@ from ..builder import NECKS
 from mmcv.cnn import xavier_init,kaiming_init,normal_init
 # from mmcv.ops.carafe import CARAFEPack
 
-from mmdet.models.module.DCCcnn import CAM_Module,DCCcnn
+from module.DCCcnn import CAM_Module,DCCcnn
 
 from mmcv.cnn.bricks import NonLocal2d
-from antialiased_cnns.CTdc import CTdc
+
 
 
 @NECKS.register_module()
